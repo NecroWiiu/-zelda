@@ -57,7 +57,7 @@ public final class OcarinaEffects {
                     h.refreshPositionAndAngles(p.getX() + 2, p.getY(), p.getZ(), p.getYaw(), 0);
                     h.setTame(true);
                     h.setOwnerUuid(p.getUuid());
-                    h.setVariant(HorseColor.CHESTNUT, HorseMarking.WHITE_FIELD);
+                   h.setVariant(HorseColor.CHESTNUT);
                     h.setCustomName(Text.literal("Epona"));
                     h.saddle(SoundCategory.NEUTRAL);
                     h.getAttributeInstance(EntityAttributes.GENERIC_MOVEMENT_SPEED).setBaseValue(0.3375);
