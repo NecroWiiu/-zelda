@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "hyrulecraft",
+  "version": "${version}",
+  "name": "HyruleCraft: Ocarina Edition",
+  "description": "Z-targeting, espadas, túnicas, ocarina con canciones, hookshot, bombas, enemigos y templos inspirados en Ocarina of Time.",
+  "authors": ["Fan project"],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/hyrulecraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.hyrulecraft.HyruleCraft"],
+    "client": ["com.hyrulecraft.client.HyruleCraftClient"]
+  },
+  "mixins": ["hyrulecraft.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

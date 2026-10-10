@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "hyrulecraft:ocarina"
+    },
+    "title": {
+      "translate": "advancement.hyrulecraft.root.title"
+    },
+    "description": {
+      "translate": "advancement.hyrulecraft.root.description"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "hyrulecraft:gameplay/guide_book"
+    ]
+  }
+}

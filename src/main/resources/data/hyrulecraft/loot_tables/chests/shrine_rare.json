@@ -1,0 +1,105 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:hylian_shield",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:hover_boots",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:iron_boots",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:megaton_hammer",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:goron_tunic",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:zora_tunic",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:dins_fire",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:nayrus_love",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:farores_wind",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:mirror_shield",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:rupee_purple",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:rupee_red",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:heart_piece",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hyrulecraft:fairy_bottle",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

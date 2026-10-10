@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hyrulecraft:rupee_purple"
+    },
+    {
+      "item": "hyrulecraft:rupee_purple"
+    },
+    {
+      "item": "hyrulecraft:rupee_purple"
+    },
+    {
+      "item": "hyrulecraft:rupee_purple"
+    }
+  ],
+  "result": {
+    "item": "hyrulecraft:rupee_gold",
+    "count": 1
+  }
+}

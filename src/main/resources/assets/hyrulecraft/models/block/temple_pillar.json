@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hyrulecraft:block/temple_pillar_top",
+    "side": "hyrulecraft:block/temple_pillar"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " D ",
+    "DHD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "hyrulecraft:hylian_shield"
+    }
+  },
+  "result": {
+    "item": "hyrulecraft:mirror_shield",
+    "count": 1
+  }
+}

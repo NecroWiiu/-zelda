@@ -1,0 +1,106 @@
+{
+  "song_ok": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:song_ok"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "z_target": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:z_target"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "navi_ping": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:navi_ping"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "roll": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:roll"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "rupee": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:rupee"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "secret": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:secret"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "hookshot": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:hookshot"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "spin_charge": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:spin_charge"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "ocarina_a": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:ocarina_a"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "ocarina_down": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:ocarina_down"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "ocarina_right": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:ocarina_right"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "ocarina_left": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:ocarina_left"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  },
+  "ocarina_up": {
+    "sounds": [
+      {
+        "name": "hyrulecraft:ocarina_up"
+      }
+    ],
+    "subtitle": "subtitles.hyrulecraft.ocarina"
+  }
+}

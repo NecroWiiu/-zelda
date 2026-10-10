@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    "IDI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "hyrulecraft:deku_shield"
+    }
+  },
+  "result": {
+    "item": "hyrulecraft:hylian_shield",
+    "count": 1
+  }
+}

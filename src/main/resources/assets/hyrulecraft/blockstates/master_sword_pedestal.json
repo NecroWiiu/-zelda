@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_sword=true": {
+      "model": "hyrulecraft:block/master_sword_pedestal"
+    },
+    "has_sword=false": {
+      "model": "hyrulecraft:block/master_sword_pedestal_empty"
+    }
+  }
+}

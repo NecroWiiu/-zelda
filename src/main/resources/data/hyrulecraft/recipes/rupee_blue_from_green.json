@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hyrulecraft:rupee_green"
+    },
+    {
+      "item": "hyrulecraft:rupee_green"
+    },
+    {
+      "item": "hyrulecraft:rupee_green"
+    },
+    {
+      "item": "hyrulecraft:rupee_green"
+    },
+    {
+      "item": "hyrulecraft:rupee_green"
+    }
+  ],
+  "result": {
+    "item": "hyrulecraft:rupee_blue",
+    "count": 1
+  }
+}

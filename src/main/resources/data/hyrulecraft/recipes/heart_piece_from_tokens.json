@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    },
+    {
+      "item": "hyrulecraft:gold_skulltula_token"
+    }
+  ],
+  "result": {
+    "item": "hyrulecraft:heart_piece",
+    "count": 1
+  }
+}
