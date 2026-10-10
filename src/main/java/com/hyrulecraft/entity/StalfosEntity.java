@@ -32,7 +32,7 @@ public class StalfosEntity extends HostileEntity {
     @Override
     protected void initGoals() {
         goalSelector.add(0, new SwimGoal(this));
-        goalSelector.add(2, new LeapAtTargetGoal(this, 0.45F));
+        goalSelector.add(2, new PounceAtTargetGoal(this, 0.45F));
         goalSelector.add(3, new MeleeAttackGoal(this, 1.1, false));
         goalSelector.add(5, new WanderAroundFarGoal(this, 0.8));
         goalSelector.add(6, new LookAtEntityGoal(this, PlayerEntity.class, 10.0F));
